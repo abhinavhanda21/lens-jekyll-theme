@@ -2,5 +2,5 @@
 title: Love
 image: assets/images/fulls/08.jpg
 thumbnail: assets/images/thumbs/08.jpg
-caption: Man fears the darkness, and so he scrapes away at the edges of it with fire.
+caption: The whole world is divided for me into two parts: one is she, and there is all happiness, hope, light; the other is where she is not, and there is dejection and darkness.
 ---
