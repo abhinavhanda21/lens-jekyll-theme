@@ -1,6 +1,6 @@
 ---
-title: Goku and Vegeta
-image: assets/images/fulls/03.jpg
-thumbnail: assets/images/thumbs/03.jpg
-caption: Goku and Vegeta have always been best part of my childhood.
+title: Tony Stark
+image: assets/images/fulls/07.jpg
+thumbnail: assets/images/thumbs/07.jpg
+caption: GENIUS, BILLIONAIRE, PLAYBOY, PHILANTHROPIST.
 ---
