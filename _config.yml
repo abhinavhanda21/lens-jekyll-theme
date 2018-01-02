@@ -1,0 +1,25 @@
+# Site settings
+title: Unknown Artist
+description: Just another unknown artist trying to figure out life.
+baseurl: "/lens-jekyll-theme" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+author:
+
+# Collection settings
+collections:
+  photos:
+
+# Social settings
+500px_url:
+facebook_url:
+github_url: https://github.com/abhinavhanda21/
+gitlab_url: 
+googleplus_url: 
+instagram_url: https://www.instagram.com/unknown_.artist/
+linkedin_url: https://www.linkedin.com/in/abhinavhanda/
+pinterest_url:
+slack_url:
+twitter_url: 
+
+# Build settings
+markdown: kramdown
