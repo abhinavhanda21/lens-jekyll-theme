@@ -1,6 +1,6 @@
 ---
-title: Donec maximus nisi eget
+title: War and Peace
 image: assets/images/fulls/04.jpg
 thumbnail: assets/images/thumbs/04.jpg
-caption: Tristique in nulla vel congue. Sed sociis natoque parturient nascetur.
+caption: Pain is the way to bring peace.
 ---
