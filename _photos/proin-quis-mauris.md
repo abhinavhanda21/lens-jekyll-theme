@@ -1,6 +1,6 @@
 ---
-title: Tony Stark
-image: assets/images/fulls/07.jpg
-thumbnail: assets/images/thumbs/07.jpg
-caption: GENIUS, BILLIONAIRE, PLAYBOY, PHILANTHROPIST.
+title: War and Peace
+image: assets/images/fulls/04.jpg
+thumbnail: assets/images/thumbs/04.jpg
+caption: Pain is the way to bring peace.
 ---
