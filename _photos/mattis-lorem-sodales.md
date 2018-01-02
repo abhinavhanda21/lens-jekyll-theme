@@ -1,6 +1,6 @@
 ---
-title: Manali Beaskund
-image: assets/images/fulls/12.jpg
-thumbnail: assets/images/thumbs/12.jpg
-caption: The best view comes after the hardest climb.
+title: Goku and Vegeta
+image: assets/images/fulls/03.jpg
+thumbnail: assets/images/thumbs/03.jpg
+caption: Goku and Vegeta have always been best part of my childhood.
 ---
