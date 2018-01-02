@@ -1,6 +1,6 @@
 ---
-title: Habitant tristique senectus
+title: Manali Beaskund
 image: assets/images/fulls/10.jpg
 thumbnail: assets/images/thumbs/10.jpg
-caption: Vestibulum ante ipsum primis in faucibus orci luctus ac tincidunt dolor.
+caption: Be happy for this moment. This moment is your life.
 ---
