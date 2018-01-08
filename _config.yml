@@ -2,7 +2,7 @@
 title: Unknown Artist
 description: Just another unknown artist trying to figure out life. Also, I like to trek.
 baseurl: "/lens-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "http://unknownatrist.me/" # the base hostname & protocol for your site
 author:
 
 # Collection settings
